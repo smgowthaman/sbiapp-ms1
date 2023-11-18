@@ -5,6 +5,10 @@ day 2 coding completed
 *********************************
 ####################################
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
